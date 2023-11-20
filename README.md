@@ -28,13 +28,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/erwan1812/Use-Case-Generative-AI">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Use-Case-Generative-AI</h3>
-
   
+
+ 
 
 
 
@@ -113,7 +109,7 @@ The project aims to provide valuable insights into football player dynamics and 
 <!-- CONTACT -->
 ## Contact
 
-Erwan Bonnefond - [@your_twitter](https://twitter.com/your_username) - erwan.bonnefond@edu.ece.fr
+Erwan Bonnefond - erwan.bonnefond@edu.ece.fr
 
 Project Link: [https://github.com/erwan1812/Use-Case-Generative-AI](https://github.com/erwan1812/Use-Case-Generative-AI)
 
